@@ -1,19 +1,20 @@
- 
-  p{
-    text-align: center ;
-  }
-  h1{
+ *{
+   padding: 0;
+   margin: 0;
+   color: white;
+ }
+ #navbar{
+   height: 60px;
+   background-color:black;
+ }
+ button{
+   background-color:#f08804;
+ }
+ #logo{
+   font-size: 25px;
+   color: #f08804;
 
-    text-decoration:wavy underline;
-    text-align: center ;
-    text-transform: capitalize;
-  }
-  #h1{
-    font-weight: bold;
-  }
-    p{
-    font-family: 'Times New Roman', Times, serif;
-    line-height:normal;
-    }
-    
-    
+ }
+ a{
+   margin-right:200px;
+ }
