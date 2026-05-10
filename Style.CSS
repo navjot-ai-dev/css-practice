@@ -1,23 +1,19 @@
+ 
+  p{
+    text-align: center ;
+  }
   h1{
-    color: blue;
-  }
-  p{
-    color: darkmagenta;
-  }
-  button{
-    color: darkgoldenrod;
-    background-color: greenyellow;
-  } 
-  body{
-    background-color: black;
-  }   
-  .myclass{
-     color: rgb(218, 14, 14);
 
+    text-decoration:wavy underline;
+    text-align: center ;
+    text-transform: capitalize;
   }
-  #box{
-    background-color: blue;
+  #h1{
+    font-weight: bold;
   }
-  p{
-    text-align: centern ;
-  }
+    p{
+    font-family: 'Times New Roman', Times, serif;
+    line-height:normal;
+    }
+    
+    
